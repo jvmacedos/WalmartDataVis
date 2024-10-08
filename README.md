@@ -21,9 +21,10 @@ Este projeto contém um dashboard desenvolvido no Power BI para análise de vend
 
 Aqui estão algumas imagens do dashboard criado:
 
-![Imagem 1](https://github.com/seu-usuario/seu-repositorio/imagem1.png)
-![Imagem 2](https://github.com/seu-usuario/seu-repositorio/imagem2.png)
-![Imagem 3](https://github.com/seu-usuario/seu-repositorio/imagem3.png)
+![Imagem 1](https://github.com/jvmacedos/WalmartDataVis/tela1.png)
+![Imagem 2](https://github.com/jvmacedos/WalmartDataVis/tela2.png)
+![Imagem 3](https://github.com/jvmacedos/WalmartDataVis/tela3.png)
+![Imagem 4](https://github.com/jvmacedos/WalmartDataVis/filtro.png)
 
 ## Como Executar
 
