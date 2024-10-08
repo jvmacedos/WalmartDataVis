@@ -17,15 +17,6 @@ Este projeto contém um dashboard desenvolvido no Power BI para análise de vend
 - **Power BI**: Ferramenta para criação de dashboards e visualizações interativas.
 - **Excel/CSV**: Dados de entrada para a análise(https://www.kaggle.com/datasets/saadabdurrazzaq/walmart-retail-data).
 
-## Imagens do Projeto
-
-Aqui estão algumas imagens do dashboard criado:
-
-![Imagem 1](https://github.com/jvmacedos/WalmartDataVis/tela1.png)
-![Imagem 2](https://github.com/jvmacedos/WalmartDataVis/tela2.png)
-![Imagem 3](https://github.com/jvmacedos/WalmartDataVis/tela3.png)
-![Imagem 4](https://github.com/jvmacedos/WalmartDataVis/tree/main/filtros.png)
-
 ## Como Executar
 
 1. Faça o download do arquivo do projeto(.PBIX).
